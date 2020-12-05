@@ -4,7 +4,7 @@ public class TowersOfFourOrMore
 {
 
     int[][] Board;
-    int rows;s
+    int rows;
     int cols;
     int filled;
 
